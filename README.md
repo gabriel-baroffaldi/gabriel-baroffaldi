@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @gabriel-baroffaldi
+- 🌱 I'm currently doing master's degree on chemistry in Institute of Chemistry - São Paulo State University (UNESP).
+- 💞️ I'm looking to collaborate on chemistry instrumentation (visible spectrometry), allied with 3d printing
+- 📫 You can reach me on the following email: gabriel.baroffaldi@unesp.br
